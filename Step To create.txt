@@ -1,0 +1,12 @@
+#How we create Our Local server without installing xampp or other server ??
+
+step 1 : open Folder that you want to  devlop ..
+step2: click on same file location Shift + Right click  (click on the Powershell )
+step3: After Openning of Powershell type   :-
+  python -m http.server --bind=localhost
+step4: go to Browser serch localhost:800
+step5 : find your file using  /your file name 
+
+...................
+
+Thanku
